@@ -5,3 +5,4 @@ i am attaching the links of books for buying them.
 
 [Digital Design: With an Introduction to Verilog HDL, 5e (Old Edition)](https://www.amazon.in/Digital-Design-Introduction-Verilog-HDL/dp/8131794741)
 [Data-Structures-Using-Reema-Thareja](https://www.amazon.in/Data-Structures-Using-Reema-Thareja/dp/0198099304)
+[C Programming Language] (https://www.amazon.in/Programming-Language-Prentice-Hall-Software/dp/0131103628)

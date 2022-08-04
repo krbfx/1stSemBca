@@ -2,3 +2,6 @@ This books or pdf files are uploaded from third party websites availble publicly
 i am not promoting priracy.
 Education should be free for everyone.
 i am attaching the links of books for buying them.
+
+[Digital Design: With an Introduction to Verilog HDL, 5e (Old Edition)](https://www.amazon.in/Digital-Design-Introduction-Verilog-HDL/dp/8131794741)
+[Data-Structures-Using-Reema-Thareja](https://www.amazon.in/Data-Structures-Using-Reema-Thareja/dp/0198099304)

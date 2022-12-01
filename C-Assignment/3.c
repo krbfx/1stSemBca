@@ -14,7 +14,7 @@ void main()
     {
         if(num%i==0)
         {
-            flag=1;
+            flag=10;
         }
     }
     if(flag==0)
